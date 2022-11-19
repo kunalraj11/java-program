@@ -1,5 +1,5 @@
 import java.util.*;
-public class abc {
+public class vowels_find {
     public static void main(String[] args) {
         String name;
         String c;
