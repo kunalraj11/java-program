@@ -9,6 +9,6 @@ public class factorial {
         for (int i=1;i<=a;i++) {
             fact=fact*i;
         }
-        System.out.println("factorial:"+fact );
+        System.out.println("factorial:" +fact );
     }
 }
